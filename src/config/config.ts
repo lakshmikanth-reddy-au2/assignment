@@ -1,0 +1,1 @@
+export const webServiceUrl = 'http://localhost:3600';
